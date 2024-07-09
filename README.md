@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmaxmind&label=Profile%20views&color=0e75b6&style=flat" alt="mrmaxmind" /> </p>
 
-- 🔭 I’m currently working on [Adversarial Self Supervision Unsupervised Doamin Adaptation (ASSUDA)]
+- 🔭 I’m currently working on **Adversarial Self Supervision Unsupervised Doamin Adaptation (ASSUDA)**
 
 - 🌱 I’m currently learning **Natural language processing (NLP), Computer Vision**
 
