@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmaxmind&label=Profile%20views&color=0e75b6&style=flat" alt="mrmaxmind" /> </p>
 
-- 🔭 I’m currently working on **Unsupervised Doamin Adaptation(UDA)**
+- 🔭 I’m currently working on **Unsupervised Doamin Adaptation(UDA)**, **Test-Time Computing in LLMs**
 
 - 🌱 I’m currently learning **Natural language processing (NLP), Computer Vision**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Probability & Statistics**
+- 💬 Ask me about **Machine Learning, Deep Learning, Probability & Statistics, Generative AI, Large
+Language Models (LLMs), Retrieval-Augmented Generation (RAG)**
 
 - 📫 How to reach me **www.sushantd@gmail.com**
 
