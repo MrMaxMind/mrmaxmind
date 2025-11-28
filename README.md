@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmaxmind&label=Profile%20views&color=0e75b6&style=flat" alt="mrmaxmind" /> </p>
 
-- 🔭 I’m currently working on **Multi-Agent Systems (MAS)**, **Test-Time Computing in LLMs**
+- 🔭 I’m currently working on **Multi-Agent Systems (MAS)**, **Test-Time Computing in LLMs**.
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Agentic AI**.
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Probability & Statistics, Generative AI, Large
-Language Models (LLMs), Vision-Language Models (VLMs) and Retrieval-Augmented Generation (RAG)**
+Language Models (LLMs), Vision-Language Models (VLMs) and Retrieval-Augmented Generation (RAG)**.
 
 - 📫 How to reach me **www.sushantd@gmail.com**
 
